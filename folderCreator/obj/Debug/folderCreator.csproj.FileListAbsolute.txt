@@ -1,0 +1,7 @@
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\bin\Debug\folderCreator.exe.config
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\bin\Debug\folderCreator.exe
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\bin\Debug\folderCreator.pdb
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\obj\Debug\folderCreator.csprojAssemblyReference.cache
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\obj\Debug\folderCreator.csproj.CoreCompileInputs.cache
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\obj\Debug\folderCreator.exe
+C:\Users\Dorin\source\repos\folderCreator\folderCreator\obj\Debug\folderCreator.pdb
