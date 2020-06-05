@@ -39,7 +39,7 @@ namespace ConsoleUI
                 // create a bool variable called "directoryExists" to later check if directory exists or not
                 Console.Write("Path for directories to be created: ");
                 string directoriesPath = @Console.ReadLine();
-                    bool directoryExists = Directory.Exists(directoriesPath);
+                bool directoryExists = Directory.Exists(directoriesPath);
 
 
 
