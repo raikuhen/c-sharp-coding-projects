@@ -10,7 +10,7 @@ It follows a simple structure:
 
 1. It asks the user for a path where the folders will be created. The path would look something like this: C:\Users\userName\Desktop
 
-2. It asks the user for the type of "naming scheme" he/she would like to use. For example, if the "naming scheme" would be "testign", and the user wants to create 3 folders, the folders will be named "testing" , "testing1" and "testing2".
+2. It asks the user for the type of "naming scheme" he/she would like to use. For example, if the "naming scheme" would be "testing", and the user wants to create 3 folders, the folders will be named "testing" , "testing1" and "testing2".
 
 3. It asks the user how many folders he/she wants to create. If the number of folders is higher than 50, the user will be asked if he/she really wants to create so many folders. This is added to prevent the user from accidentally creating too many folders.
 
