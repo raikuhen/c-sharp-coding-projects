@@ -14,7 +14,7 @@ It follows a simple structure:
 
 3. It asks the user how many folders he/she wants to create. If the number of folders is higher than 50, the user will be asked if he/she really wants to create so many folders. This is added to prevent the user from accidentally creating too many folders.
 
-4. Once the folders are created, the user is asked whether he/she wants to open a Windows Explorer window to where the folders were created. In this case, if the folders were created on the Desktop, then a window containing all the files on the Desktop is openned.
+4. Once the folders are created, the user is asked whether he/she wants to open a Windows Explorer window to where the folders were created. In this case, if the folders were created on the Desktop, then a window containing all the files on the Desktop is opened.
 
 5. Finally, the user is asked whether he/she wants to keep using the program. This is done in case you want to create multiple folders within folders.
 
